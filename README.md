@@ -1,2 +1,2 @@
 # pug.js
-pug
+pug index.pug -w --out dist/index.html
